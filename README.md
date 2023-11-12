@@ -1,4 +1,4 @@
-# stat437project
+# Stat 437 Project
 
 ![image](https://github.com/agrigortsuk/stat437project/assets/143155127/b0437be6-6856-4d13-8189-fb9990693a99)
 
